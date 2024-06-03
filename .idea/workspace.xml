@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="adding lab001 file lab001" />
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="adding lab001 file lab004" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +26,9 @@
     "assignee": "nikulr"
   }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a73421dc-1afa-47a7-8dad-1db00acc04c7" />
+  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/nikulr/PyLearning3xATB.git",
@@ -47,6 +50,8 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -92,13 +97,31 @@
       <option name="project" value="LOCAL" />
       <updated>1717411676878</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding lab001 file lab003">
+      <option name="closed" value="true" />
+      <created>1717412018975</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717412018975</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding lab001 file lab004">
+      <option name="closed" value="true" />
+      <created>1717412095770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717412095770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab001 file" />
     <MESSAGE value="adding lab001 file lab002" />
     <MESSAGE value="adding lab001 file lab001" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab001 file lab001" />
+    <MESSAGE value="adding lab001 file lab003" />
+    <MESSAGE value="adding lab001 file lab004" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab001 file lab004" />
   </component>
 </project>
