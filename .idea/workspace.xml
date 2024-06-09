@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="adding lab01">
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="adding lab02">
       <change afterPath="$PROJECT_DIR$/Ex05062024/Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab08.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab01.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +64,12 @@
     "Python.Lab005.executor": "Run",
     "Python.Lab01.executor": "Run",
     "Python.Lab02.executor": "Run",
+    "Python.Lab03.executor": "Run",
+    "Python.Lab04.executor": "Run",
+    "Python.Lab05.executor": "Run",
+    "Python.Lab06.executor": "Run",
+    "Python.Lab07.executor": "Run",
+    "Python.Lab08.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -135,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717564685583</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding lab02">
+      <option name="closed" value="true" />
+      <created>1717724943730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717724943730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +166,7 @@
     <MESSAGE value="adding lab001 file lab004" />
     <MESSAGE value="adding lab001 file lab005" />
     <MESSAGE value="adding lab01" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab01" />
+    <MESSAGE value="adding lab02" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab02" />
   </component>
 </project>
