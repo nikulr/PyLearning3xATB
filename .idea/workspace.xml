@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="adding lab02">
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab08.py" afterDir="false" />
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Variables and Data Types">
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024/Lab05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +72,18 @@
     "Python.Lab06.executor": "Run",
     "Python.Lab07.executor": "Run",
     "Python.Lab08.executor": "Run",
+    "Python.Lab09.executor": "Run",
+    "Python.Lab10.executor": "Run",
+    "Python.Lab11.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab13.executor": "Run",
+    "Python.Lab14.executor": "Run",
+    "Python.Lab15.executor": "Run",
+    "Python.Lab16.executor": "Run",
+    "Python.Lab17.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -155,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717724943730</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1717926867637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717926867637</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +186,7 @@
     <MESSAGE value="adding lab001 file lab005" />
     <MESSAGE value="adding lab01" />
     <MESSAGE value="adding lab02" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab02" />
+    <MESSAGE value="Variables and Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variables and Data Types" />
   </component>
 </project>

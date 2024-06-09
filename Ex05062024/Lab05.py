@@ -26,7 +26,7 @@ complex_number = 2+3j
 print(complex_number.real)
 print(complex_number.imag)
 
-# More Data Types
+# More Advance Data Types
 # Lists,
 # Tuples,
 # Dictionaries,
