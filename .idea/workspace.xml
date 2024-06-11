@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Variables and Data Types">
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex07062024/Lab17.py" afterDir="false" />
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Advance Data Types">
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab19_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab20_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab21_Operators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab22_Operators3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Task01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Task02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024/Lab05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +78,7 @@
     "Python.Lab15.executor": "Run",
     "Python.Lab16.executor": "Run",
     "Python.Lab17.executor": "Run",
+    "Python.Task02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -174,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717926867637</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Advance Data Types">
+      <option name="closed" value="true" />
+      <created>1717933919732</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717933919732</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +193,7 @@
     <MESSAGE value="adding lab01" />
     <MESSAGE value="adding lab02" />
     <MESSAGE value="Variables and Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables and Data Types" />
+    <MESSAGE value="Advance Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advance Data Types" />
   </component>
 </project>
