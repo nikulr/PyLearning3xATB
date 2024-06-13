@@ -1,15 +1,3 @@
-
-age = 65  # Unary operator + (pycharm +_ -->
-num = -1
-print(age)
-print(num)
-r = age+num
-print(r)
-
-# Not Operator  --> return boolean
-is_married = True
-print(not is_married)
-
 # is operator  --> Identity operator  --> return boolean
 a = 5
 b = 6
@@ -23,6 +11,7 @@ print(my_list is my_lis2)
 
 # is - How? condition
 
+print(--------------------------------------------------------------------------------)
 # Modulus operators
 # 10 / 87 | 8
 #    / 80 |
@@ -37,3 +26,4 @@ print(a ** 2)
 r = pow(10, 2)
 print(r)
 
+print(--------------------------------------------------------------------------------)

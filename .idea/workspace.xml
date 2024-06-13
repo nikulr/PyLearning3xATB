@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Advance Data Types">
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab19_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab20_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab21_Operators2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab22_Operators3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Task02.py" afterDir="false" />
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Task">
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab23_Unary&amp;NOT_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab25_Logical_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab26_Ternary_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab29_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab30_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab31.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab20_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab20_Assignment_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab21_Operators2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab21_Comparison_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab22_Operators3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab22_Arithmatic_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab23_AreaOfCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab27_AreaOfCircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab24_IS_Operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +83,18 @@
     "Python.Lab15.executor": "Run",
     "Python.Lab16.executor": "Run",
     "Python.Lab17.executor": "Run",
+    "Python.Lab25_Condition.executor": "Run",
     "Python.Task02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nrake\PycharmProjects\PyLearning3xATB\Ex10062024\Task10062024" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -180,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717933919732</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Literals and Operators">
+      <option name="closed" value="true" />
+      <created>1718127646969</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718127646969</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task">
+      <option name="closed" value="true" />
+      <created>1718127801607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718127801607</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +221,8 @@
     <MESSAGE value="adding lab02" />
     <MESSAGE value="Variables and Data Types" />
     <MESSAGE value="Advance Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advance Data Types" />
+    <MESSAGE value="Literals and Operators" />
+    <MESSAGE value="Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task" />
   </component>
 </project>
