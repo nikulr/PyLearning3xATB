@@ -4,23 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="rename">
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab29_relational_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab31_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab32_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab33_Multiple_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task01_LeepYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task02_TriangleLength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task03_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task04_Fibonacci_Series.py" afterDir="false" />
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Task2">
+      <change afterPath="$PROJECT_DIR$/Ex10062024/Task10062024/Task03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab33_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab34_Multiple_Condition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab23_Unary&amp;NOT_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab23_Unary&amp;NOT_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab24_IS_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab24_IS_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab25_Logical_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab25_Logical_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab22_Arithmatic_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab22_Arithmatic_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab27_AreaOfCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab27_AreaOfCircle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex10062024/Lab28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab29_Condition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab30_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024/Lab30_Condition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab29_relational_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab29_relational_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Task10062024/Task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Task10062024/Task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab30_Condition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab31_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024/Lab31_Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab32_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024/Lab32_Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab33_Multiple_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab30_AreaofCircle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024/Task12062024/Task04_Fibonacci_Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task04_Fibonacci_Series.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +89,7 @@
     "Python.Lab25_Condition.executor": "Run",
     "Python.Lab28.executor": "Run",
     "Python.Lab29_relational_operators.executor": "Run",
+    "Python.Lab30_AreaofCircle2.executor": "Run",
     "Python.Lab31_Condition.executor": "Run",
     "Python.Task01_LeepYear.executor": "Run",
     "Python.Task02.executor": "Run",
@@ -253,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718246598038</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task2">
+      <option name="closed" value="true" />
+      <created>1718301384063</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718301384063</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,6 +278,7 @@
     <MESSAGE value="Literals and Operators" />
     <MESSAGE value="Task" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
   </component>
 </project>

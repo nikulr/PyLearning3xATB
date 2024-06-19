@@ -1,9 +1,26 @@
-# create a program that takes two numbers as input and prints wether the first number is greater than, less than, or equal to the second number
+# Condition and Loop
+# Condition : operation/task perform on basis of some condition
+# age > 18 --> you are allowed to vote
+# age < 18 --> not allowed to vote
 
-num1 = int(input("Enter first number:"))
-num2 = int(input("Enter first number:"))
-
-if num1 > num2:
-    print(num1, "is greater")
+# If, Else
+# Syntax
+'''
+if condition:
+    code to be executed when condition true
 else:
-    print(num2, " is greater")
+    code to be executed when condition false
+'''
+
+# write a program to take a user age and let him know if he can go to club
+age = int(input("Enter your age"))
+if age > 18:
+    print("Allowed to go to the club")
+else:
+    print("Not allowed to go to the club")
+
+
+
+#
+
+

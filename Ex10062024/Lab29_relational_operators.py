@@ -14,6 +14,3 @@ print(result3)
 
 result4 = result1 or result2  # false and True
 print(result4)
-
-result5 = result1 nor result2  # false and True
-print(result5)

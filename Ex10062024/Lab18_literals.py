@@ -1,5 +1,16 @@
-# literals
+# Python literals are data type and can hold any value type, such as string, int, float, and more
+# Literals are representations of fixed values in a program, they can be numbers, char, or strings etc
 # var_name = variable_value
+# var_name ---> identifier
+# var_value ---> Literals
+#  are the actual values assigned, it can be numeric or non-numeric
+
+# string literals
+# Character literals
+# Numeric Literals
+# Boolean literals
+# Special literals
+#  collections
 
 name = "Pramod"
 # var_name --> Identifier
