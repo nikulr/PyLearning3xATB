@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="rename">
-      <change afterPath="$PROJECT_DIR$/Ex10062024/Lab29_relational_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab31_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab32_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Lab33_Multiple_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task01_LeepYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task02_TriangleLength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task03_Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex12062024/Task12062024/Task04_Fibonacci_Series.py" afterDir="false" />
+    <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Task2">
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab73_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab76_Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex24062024_Filters/Lab78.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab23_Unary&amp;NOT_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab23_Unary&amp;NOT_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab24_IS_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab24_IS_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab25_Logical_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab25_Logical_Operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab29_Condition.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab30_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024/Lab30_Condition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024/Lab31.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,43 +54,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab01.executor": "Run",
-    "Python.Lab02.executor": "Run",
-    "Python.Lab03.executor": "Run",
-    "Python.Lab04.executor": "Run",
-    "Python.Lab05.executor": "Run",
-    "Python.Lab06.executor": "Run",
-    "Python.Lab07.executor": "Run",
-    "Python.Lab08.executor": "Run",
-    "Python.Lab09.executor": "Run",
-    "Python.Lab10.executor": "Run",
-    "Python.Lab11.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab13.executor": "Run",
-    "Python.Lab14.executor": "Run",
-    "Python.Lab15.executor": "Run",
-    "Python.Lab16.executor": "Run",
-    "Python.Lab17.executor": "Run",
-    "Python.Lab23_Unary&NOT_Operators.executor": "Run",
-    "Python.Lab25_Condition.executor": "Run",
-    "Python.Lab28.executor": "Run",
-    "Python.Lab29_relational_operators.executor": "Run",
-    "Python.Lab31_Condition.executor": "Run",
-    "Python.Task01_LeepYear.executor": "Run",
-    "Python.Task02.executor": "Run",
-    "Python.Task04_Fibonacci_Series.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab23_Unary&amp;NOT_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab25_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab29_relational_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab31_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab72.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab73_Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab74.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab75.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab76_Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab77.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab78.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task01_LeepYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task04_Fibonacci_Series.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/PyLearning3xATB&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nrake\PycharmProjects\PyLearning3xATB\Ex10062024\Task10062024" />
@@ -136,7 +136,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -253,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718246598038</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task2">
+      <option name="closed" value="true" />
+      <created>1718301384063</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718301384063</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,6 +278,7 @@
     <MESSAGE value="Literals and Operators" />
     <MESSAGE value="Task" />
     <MESSAGE value="rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename" />
+    <MESSAGE value="Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
   </component>
 </project>
