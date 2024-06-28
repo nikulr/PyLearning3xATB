@@ -1,5 +1,6 @@
 # Condition and Loop
 # Condition : operation/task perform on basis of some condition
+
 # age > 18 --> you are allowed to vote
 # age < 18 --> not allowed to vote
 
@@ -13,14 +14,12 @@ else:
 '''
 
 # write a program to take a user age and let him know if he can go to club
-age = int(input("Enter your age"))
-if age > 18:
-    print("Allowed to go to the club")
+
+age = int(input("Enter your age: "))
+if age > 21:
+    print("You are allowed to go to the club")
 else:
-    print("Not allowed to go to the club")
+    print("Sorry, you are Not allowed to go to the club")
 
-
-
-#
 
 

@@ -1,4 +1,4 @@
-# Comparison Operators  --> boolean return
+# Comparison/Relational Operators  --> boolean return
 # ==, !=, >=, <=, >, <
 
 b = (10>=7)

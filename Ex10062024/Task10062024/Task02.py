@@ -7,13 +7,22 @@ print("cube of a is:", c)
 p = pow(a, 2)
 
 
-# create a program that takes two numbers as input and prints wether the first number is greater than, less than, or equal to the second number
+def calculate_square_and_cube(number):
+    square = number ** 2
+    cube = number ** 3
+    return square, cube
 
-num1 = int(input("Enter first number:"))
-num2 = int(input("Enter first number:"))
+print("-----------------------------------Or-----------------------")
+# Create a list of numbers
+numbers = [1, 2, 3, 4, 5]
 
-print(num1,"is greater") if (num1 > num2) else print(num2,"is greater")
+# Calculate squares
+squares = [num ** 2 for num in numbers]
 
-# or
+# Calculate cubes
+cubes = [num ** 3 for num in numbers]
 
-print("Both num1 and num2 are equal" if num1 == num2 else "num1 is greater  than num2" if num1 > num2 else "num2 is greater than num1")
+# Print the lists
+print("Numbers:", numbers)
+print("Squares:", squares)
+print("Cubes:", cubes)
