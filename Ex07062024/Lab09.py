@@ -1,3 +1,10 @@
+# Data Types:
+# Data types define the kind of data a variable can hold.
+# Python has various built-in data types like integers, floats, string, boolean
+
+# Data Types which are supported in python
+
+
 # take two int number from the user and we want to add them.
 # we need to use input function.
 
