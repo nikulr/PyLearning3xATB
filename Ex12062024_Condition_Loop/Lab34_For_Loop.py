@@ -1,11 +1,12 @@
 # LOOPs ---> for loop, while loop
 # Repeat a block of code multiple times
 
+# range(start, stop. step)
 # syntax
 # for loop
 
-for i in range(5):   # 0 to 4
-    print(i)
+for i in range(5):   # range from 0 to 4
+    print(i)         # i is just variable, it can be anything instead of i
 
 print("---------------------------------------")
 
@@ -21,7 +22,7 @@ for i in range(3,5):   # 3 to 4
 
 print("---------------------------------------")
 
-for i in range(1, 10, 1):   # 1 to 9
+for i in range(1, 10, 1):   # 1 to 9, # range(start, stop. step)
     print(i)
 
 print("---------------------------------------")

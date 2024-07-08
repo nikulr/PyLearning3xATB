@@ -1,3 +1,4 @@
+# Multiple Condition
 # If-ELIF-ELSE
 
 # how to find max between 3 numbers
@@ -12,4 +13,3 @@ elif num2 > num1 and num2 > num3:
     print(num2, "is greater")
 else:
     print(num3, " is greater")
-
