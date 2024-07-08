@@ -1,4 +1,5 @@
-# List  -- shopping list
+# Data Type - List
+# List -- shopping list
 # Add item
 # Remove item
 # Update item
@@ -35,7 +36,10 @@ shopping_list[0] = "Pramod"
 print(shopping_list)
 
 print("----------------------------------------------------------------------")
-my_list = [1, 2, 3, 4, True, 10.11, 12.45, "Pramod"]
+
+#  list with different data types:
+
+my_list = [1, 2, 3, 4, True, 10.11, 12.45, "Pramod", 3.14]
 print(my_list)
 print(len(my_list))
 print(my_list[2])

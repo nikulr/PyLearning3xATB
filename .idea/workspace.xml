@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="Filters">
-      <change afterPath="$PROJECT_DIR$/Ex05062024/Lab05_Variable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024/Lab06_Data_Types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024/Lab08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab06_Data_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024/Lab06_Data_Types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex07062024/Lab09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024/Lab09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024/Lab11_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024/Lab12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024/Lab13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024/Lab16_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024/Lab17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab19_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab19_Set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab26_Ternary_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab26_Ternary_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab27_AreaOfCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab27_Modulus_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab28_Modulus_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab28_.AreaOfCircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab29_AreaofCircle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024/Lab29_AreaofCircle2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +85,10 @@
     "Python.Lab15.executor": "Run",
     "Python.Lab16.executor": "Run",
     "Python.Lab17.executor": "Run",
+    "Python.Lab21_Comparison_Operators.executor": "Run",
     "Python.Lab23_Unary&NOT_Operators.executor": "Run",
     "Python.Lab25_Condition.executor": "Run",
+    "Python.Lab25_Logical_Operators.executor": "Run",
     "Python.Lab28.executor": "Run",
     "Python.Lab29_relational_operators.executor": "Run",
     "Python.Lab31_Condition.executor": "Run",
@@ -268,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719538913858</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Filters">
+      <option name="closed" value="true" />
+      <created>1720242579109</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720242579110</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

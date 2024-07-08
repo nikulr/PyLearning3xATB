@@ -1,8 +1,11 @@
 # Data Types:
 # Data types define the kind of data a variable can hold.
+
 # Python has various built-in data types like integers, floats, string, boolean
 
-# Data Types which are supported in python
+
+# Data Types which are supported in python:
+# ---------------------------------------
 
 # 1. Integers - Positive and negative whole numbers.
 # eg: 1, 22, 412, 5797

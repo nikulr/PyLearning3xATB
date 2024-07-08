@@ -1,8 +1,8 @@
 # Data Types:
 # Data types define the kind of data a variable can hold.
 # Python has various built-in data types like integers, floats, string, boolean
+# Advance data types --> list, tuple, set, dict, complex  --> which use in API and web automation
 
-# Data Types which are supported in python
 
 
 # take two int number from the user and we want to add them.
@@ -13,8 +13,7 @@ num2 = input("Enter the second number:")
 result = num1+num2
 print(result)
 
-# type coverssion - str to int
-result2 = int(num1)+int(num2)
+result2 = int(num1)+int(num2)   # type conversation - str to int
 print(result2)
 
 
