@@ -1,4 +1,9 @@
-# while loop
+# while loop:
+
+# The while loop is used when you don’t know in advance how many times you want to execute the block of code.
+#               It continues to execute as long as the specified condition is true.
+# It’s important to make sure that the condition eventually becomes false; otherwise, the loop will run indefinitely,
+#       resulting in an infinite loop.
 
 i = 0
 while i < 5:

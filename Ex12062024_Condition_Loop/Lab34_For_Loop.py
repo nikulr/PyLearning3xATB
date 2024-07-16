@@ -1,4 +1,9 @@
-# LOOPs ---> for loop, while loop
+# For Loop:
+
+# The for loop is used when you know in advance how many times you want to execute the block of code.
+# It iterates over a sequence (e.g., a list, tuple, string, or range) and executes the block of code for each item in the sequence.
+# The loop variable (variable) takes the value of each item in the sequence during each iteration.
+
 # Repeat a block of code multiple times
 
 # range(start, stop. step)

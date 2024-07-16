@@ -5,12 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19c44232-34ba-4eae-9c1f-813fa899ea41" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab39_Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab44_Match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab47_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex14062024_Break_Match_Pass/Lab51.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab32_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab32_Condition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab33_Multiple_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab33_Multiple_Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex03062024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex03062024_PythonIntro/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex03062024_PythonIntro/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab05_Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab05_Variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab06_Data_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab06_Data_Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05062024/Lab08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05062024_PythonBasic/Lab08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab11_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab11_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab16_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab16_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Lab17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex07062024_DataTypes/Lab17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab18_literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab18_literals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab19_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab19_Set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab20_Assignment_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab20_Assignment_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab21_Comparison_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab21_Comparison_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab22_Arithmatic_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab22_Arithmatic_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab23_Unary&amp;NOT_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab23_Unary&amp;NOT_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab24_IS_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab24_IS_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab25_Logical_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab25_Logical_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab26_Ternary_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab26_Ternary_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab27_Modulus_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab27_Modulus_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab28_.AreaOfCircle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab28_.AreaOfCircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Lab29_AreaofCircle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Lab29_AreaofCircle2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Task10062024/Task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Task10062024/Task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Task10062024/Task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Task10062024/Task02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex10062024/Task10062024/Task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex10062024_Literals_Operators/Task10062024/Task03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab31_Condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab31_Condition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab34_For_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab34_For_Loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab35.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab35.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab36.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab37_while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex12062024_Condition_Loop/Lab37_while_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +130,24 @@
     "Python.Lab25_Logical_Operators.executor": "Run",
     "Python.Lab28.executor": "Run",
     "Python.Lab29_relational_operators.executor": "Run",
+    "Python.Lab30_Condition_If_Else.executor": "Run",
     "Python.Lab31_Condition.executor": "Run",
     "Python.Lab34_For_Loop.executor": "Run",
     "Python.Lab35.executor": "Run",
     "Python.Lab36.executor": "Run",
+    "Python.Lab39.executor": "Run",
+    "Python.Lab40.executor": "Run",
+    "Python.Lab41.executor": "Run",
+    "Python.Lab42.executor": "Run",
+    "Python.Lab43.executor": "Run",
+    "Python.Lab44.executor": "Run",
+    "Python.Lab45.executor": "Run",
+    "Python.Lab46.executor": "Run",
+    "Python.Lab47.executor": "Run",
+    "Python.Lab48.executor": "Run",
+    "Python.Lab49.executor": "Run",
+    "Python.Lab50.executor": "Run",
+    "Python.Lab51.executor": "Run",
     "Python.Lab72.executor": "Run",
     "Python.Lab73_Filter.executor": "Run",
     "Python.Lab74.executor": "Run",
@@ -290,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720459980659</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update">
+      <option name="closed" value="true" />
+      <created>1720463595994</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1720463595994</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
